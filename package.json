@@ -2,7 +2,7 @@
   "name": "play-tail",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "conanak99 <huyhoang8a5@gmail.com>",
+  "author": "longphanquangminh <lordaizensousuke2001@gmail.com>",
   "scripts": {
     "dev": "npx tailwindcss -i ./style.css -o ./dist/output.css --watch"
   },
